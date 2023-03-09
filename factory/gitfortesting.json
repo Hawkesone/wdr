@@ -1,0 +1,9 @@
+{
+	"name": "gitfortesting",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15e65815-1d05-4724-aa77-fbee099f3008",
+		"tenantId": "43ec486c-6703-4541-8c90-58d904f13dc3"
+	}
+}
